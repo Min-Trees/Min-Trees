@@ -84,13 +84,6 @@ public class BackendDeveloper {
 
 </div>
 
-## 🔥 GitHub Streak
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true)
-
-</div>
 
 ## 🎯 What I'm Currently Working On
 
@@ -145,23 +138,14 @@ graph TD
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mintrees-backend)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:npminhtri.be@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Min-Trees)
 
 </div>
 
 ---
 
-<div align="center">
-  
-**💡 "Write clean code, design robust systems, and never stop learning new technologies!"**
-
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
-
-</div>
-
----
 
 ⭐ **Fun Fact**: I believe good code doesn't just work - it should be readable, maintainable, and scalable!
 
